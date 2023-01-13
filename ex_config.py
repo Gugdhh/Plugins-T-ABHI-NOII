@@ -9,7 +9,7 @@ class Development(Config):
     # get these values from my.telegram.org.
     
     APP_ID = 20256702  # 666666 is a placeholder. Fill your 6 digit api id
-    API_HASH = ""  # replace this with your api hash
+    API_HASH = "c81d1c06212c1c9624f44e159c651a5c"  # replace this with your api hash
     BOT_TOKEN = "5874935627:AAGgv0c8Ad_vp-gd3EKSplDyKcl3AnoOeqE"  # Create a bot from @BotFather and paste the token here
     BOT_LIBRARY = "telethon"  # fill 'pyrogram' if you want pyrogram version of hellbot else leave it as it is.
     DATABASE_URL = "postgres://lzsdumzs:hVxl2M4cZyLocKG4CUSGtuUqED44MZRw@tiny.db.elephantsql.com/lzsdumzs"  # A postgresql database url from elephantsql
